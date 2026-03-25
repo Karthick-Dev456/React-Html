@@ -7,6 +7,11 @@ import Image from './html-components.jsx/Image'
 import List from './html-components.jsx/List'
 import Table from './html-components.jsx/Table'
 import Button from './html-components.jsx/Button'
+import Video from './html-components.jsx/Video'
+import Audio from './html-components.jsx/Audio'
+import BasicFormFields from './form-components/BasicFormFields'
+import FormInputTypes from './form-components/FormInputTypes'
+import FormAttributes from './form-components/FormAttributes'
 
 const App = () => {
     return (
@@ -19,6 +24,11 @@ const App = () => {
             {/* <List /> */}
             {/* <Table /> */}
             {/* <Button /> */}
+            {/* <Video /> */}
+            {/* <Audio /> */}
+            {/* <BasicFormFields /> */}
+            {/* <FormInputTypes /> */}
+            {/* <FormAttributes /> */}
         </div>
     )
 }
